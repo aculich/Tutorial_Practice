@@ -85,7 +85,7 @@ pearc-clusters-server] --> openstack router show ${OS_USERNAME}-api-router
 # Build Headnode VM
 
 During this step, log in to 
-```jblb.jetstream-cloud.org/dashboard```
+```https://jblb.jetstream-cloud.org/dashboard```
 
 with your tg???? id, to monitor your build progress on the Horizon interface.
 You will also be able to view other trainees instances and networks - **PLEASE do not delete 
